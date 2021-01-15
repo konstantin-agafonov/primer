@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 16 16">
+	<rect class="cls-1" x="2.67" y="2.67" width="10.67" height="10.67" fill="#f03b8c"/>
+	<rect class="cls-2" width="16" height="16" rx="2" fill="#f03b8c"/>
+	<path class="cls-4" d="M6.75,12a.51.51,0,0,1-.38.16A.51.51,0,0,1,6,12L2.91,8.91a.82.82,0,0,1,0-1.16l.38-.38a.82.82,0,0,1,1.16,0L6.37,9.29,11.55,4.1a.82.82,0,0,1,1.16,0l.38.38a.82.82,0,0,1,0,1.16Z" fill="#ffffff"/>
+</svg>
